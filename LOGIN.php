@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notre Dame of Kabacan, Inc.</title>
+    <style>
+        .content {
+            position: relative;
+            text-align: center;
+            color: #000000;
+	}
+	.top-left {
+            position: absolute;
+            top: 8px;
+            left: 16px;
+	}
+        .more {
+            background-color: lightgrey;
+            font-family: times new roman;
+            width: 630px;
+            border: 15px solid green;
+            padding: 50px;
+            margin: 20px;
+	}
+        body {
+            font-family: Lobster, Arial;
+            margin: 1.2;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-image: url(headerr1.jpg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center
+        }
+        nav{
+            float:inherit;
+            list-style-type: none;
+            margin: 10px 20px;
+        }
+        nav li{
+            display: inline-block;
+        }
+        nav li a{
+            text-decoration:none;
+            color: white;
+            margin: 10px 5px;
+            padding: 5px 10px;
+            border: 1px solid white;
+            transition: 0.6s ease;
+        }
+        nav li a:hover{
+            background-color: white;
+            color: black;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #006400;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+    <nav>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="history.html">History</a></li>
+        <li><a href="subjects.html">Subjects</a></li>
+        <li><a href="contactus.html">Meet the Creators</a></li>
+    </nav>
+    </header>
+    <div class="container">
+        <div class="content">
+            <img src="ndki.jpg" alt="NDKI" style="width:100%;">
+	</div>
+	<div class="more">
+<h1>THE HISTORY OF THE NOTRE DAME OF KABACAN, INC.</h1>
+        <p>In 1956, the Notre Dame of Kabacan was founded in answer to the clamor and wishes of the people for a Christian Catholic Education. To the Oblates of Mary Immaculate, it was part of their mission to establish schools and to educate the young. The kind Bishop Gererd Mongeau, OMI, DD then the Bishop of Cotabato saw the need of Catholic Education for the children of this community. Thus, in Jnuary 24, 1956, Notre Dame of Kabacan was born.</p>
+        
+        <p>The first sight was located along the National Highway of Barangay Osias. A year after the operation, it was transferred to its present site (at the back of Catholic Church). From 1956-1960, the school was under the administrative supervision of Fr. Robert Callahan, OMI as its first director. In 1960, the OBLATES OF NOTRE DAME sisters (OND) took over with Sr. Solidad Amigable, an OND sister then, as its first directress-principal.</p>
+        
+        <p>While NDKI aims for quality education, it also weathered all kind of difficulties but also with enumerable successes. Hence, it was affirmed when NDK won championship in NDEA Inter-Area Academic Contest in the SY 1986-1987 and 1991-1992.</p>
+            
+        <p>The Notre Dame of Kabacan, as an OND school, strives to bring hope and joy to the people by facilitating a kind of education which is geared towards transformation of self and society. It is guided by the Vison-Mission wherein NDK became a Community of Faith, Community of Friends, Community of Desciples, and Mary Like Community.</p>
+        
+        <p>On June 1990, Kindergarten was opened under the leadership of Sr. Fe F. Segundo, OND and on June 1991, with Sr. Marissa Leticia T. Borgonia, OND as the Directress-Principal, a ladderized Elementary Education was Offered in Answer to the petition filed by the parents asking the school administration to offer elementary education. In the same year, September 1991, Community Extension Learning Center (CELC) was opened in Liton, Kabacan, located about three (3) kilometers from the town.</p>
+        
+        <p>With the growth of enrolment and the limited space for school activities, the School Physical Plant has developed. Thus, the Holy Childhood Center in 1992, Grade School Development Building in 1996 and the Pavilion in 2004 were join projects and the Academic Community: Parents, Teachers Association, Students Alumni, NDK Staff and Administrators and the Community. The School is upgraded with good facilities like Science and Speech Laboratories and Computer Center.</p>
+            
+        <p>As the NDK Academic Community is zealously moving towards its Education Credo: "Development  of all members of the Academic Community to becometransforming member of the Society." The development of the Curriculum and at the same time Values Education had been continuously offered in the school.</p>
+            
+        <p>Since Inter-Religious Dialogue (IRD) is part of the OND Ministry, Islamic subject for the Muslim has been offered, too. The School becomes a venue for the continuing search for truth as the school Motto which is inscripted in the logo: TRUTH CONQUERS ALL.</p>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 Notre Dame of Kabacan, Inc. All rights reserved.
+    </footer>
+</body>
+</html>
